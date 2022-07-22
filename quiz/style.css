@@ -27,7 +27,7 @@ body {
 }
 
 .black {
-	background-color: black;
+	background-color: #00C2CB;
 	padding: 10px;
 	text-align: center;
 	border-radius: 20px;
@@ -44,17 +44,17 @@ body {
 	border-radius: 10px;
 	padding: 5px 10px;
 	font-size: 30px;
-	background-color: #f7ce6a;
+	background-color: black;
 	outline: none;
-	color: black;
+	color: #00C2CB;
 	text-decoration: none;
 }
 
 .black h1 {
-	color: yellow;
+	color: black;
 }
 
 .black p {
 	font-size: 18px;
-	color: white;
+	color: black;
 }
